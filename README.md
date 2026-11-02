@@ -17,8 +17,8 @@ Shop management software for repair businesses. It went live in September 2026.
 Built with PHP, MariaDB, Node.js, Gemini and Telnyx.
 
 <p>
-  <img src="screenshots/signet-board.png" alt="SignetCRM workflow board" width="68%">
-  <img src="screenshots/signet-estimate.png" alt="SignetCRM estimate on a phone" width="28%">
+  <img src="signet-board.png" alt="SignetCRM workflow board" width="68%">
+  <img src="signet-estimate.png" alt="SignetCRM estimate on a phone" width="28%">
 </p>
 
 ### Lotline
