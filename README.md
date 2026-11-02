@@ -35,11 +35,11 @@ Built with Python, pandas, scikit-learn, LightGBM, PyTorch, PHP and MariaDB.
 
 My own engine management system. Custom ECU hardware, our own firmware, a desktop tuning app and a digital dash, with auto-tuning for fuel and ignition.
 
-Built with TypeScript, React and Electron.
+Built with TypeScript, React, Rust and Electron.
 
 ### What I use
 
-Python, PHP, TypeScript, JavaScript, C++, SQL, React, Electron, Node.js, MariaDB/MySQL, Git
+Python, PHP, TypeScript, JavaScript, C++, Rust, SQL, React, Electron, Node.js, MariaDB/MySQL, Git
 
 Most of my code is private, so there isn't much to see here. I'm happy to walk through any of it if you want to talk.
 
