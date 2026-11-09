@@ -37,6 +37,10 @@ My own engine management system. Custom ECU hardware, our own firmware, a deskto
 
 Built with TypeScript, React, Rust and Electron.
 
+### Security research
+
+- **WP Booking System** (WordPress plugin, about 10,000 installs): found and privately reported an issue where the booking form trusted settings sent by the visitor's browser. The vendor fixed it in 2.1.0.7 and credited me in the [changelog](https://plugins.trac.wordpress.org/changeset/3772987/).
+
 ### What I use
 
 Python, PHP, TypeScript, JavaScript, C++, Rust, SQL, React, Electron, Node.js, MariaDB/MySQL, Git
