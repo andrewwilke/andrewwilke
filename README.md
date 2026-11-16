@@ -40,6 +40,7 @@ Built with TypeScript, React, Rust and Electron.
 ### Security research
 
 - **WP Booking System** (WordPress plugin, about 10,000 installs): found and privately reported an issue where the booking form trusted settings sent by the visitor's browser. The vendor fixed it in 2.1.0.7 and credited me in the [changelog](https://plugins.trac.wordpress.org/changeset/3772987/).
+- **Battlezone Online (bzo)**: reviewed the Node.js game server and found a crash from malformed cookies, unbounded debug log writes, missing player-name length caps, stored XSS through the Debug HUD, rate limits that trusted a spoofable header, unthrottled imports, and login callbacks built from the Host header. The maintainer fixed the issues in [v1.4.4](https://github.com/timriker/bzo/commit/4f5b01ee1fd9320abecdf8e67a7184a5c50dd400) and credited my review.
 
 ### What I use
 
